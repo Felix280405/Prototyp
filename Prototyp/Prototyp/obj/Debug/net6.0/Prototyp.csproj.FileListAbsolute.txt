@@ -1,0 +1,14 @@
+C:\Users\Felix\source\repos\Prototyp\Prototyp\bin\Debug\net6.0\Prototyp.exe
+C:\Users\Felix\source\repos\Prototyp\Prototyp\bin\Debug\net6.0\Prototyp.deps.json
+C:\Users\Felix\source\repos\Prototyp\Prototyp\bin\Debug\net6.0\Prototyp.runtimeconfig.json
+C:\Users\Felix\source\repos\Prototyp\Prototyp\bin\Debug\net6.0\Prototyp.dll
+C:\Users\Felix\source\repos\Prototyp\Prototyp\bin\Debug\net6.0\Prototyp.pdb
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.AssemblyInfoInputs.cache
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.AssemblyInfo.cs
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.dll
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\refint\Prototyp.dll
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.pdb
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\Prototyp.genruntimeconfig.cache
+C:\Users\Felix\source\repos\Prototyp\Prototyp\obj\Debug\net6.0\ref\Prototyp.dll
